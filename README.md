@@ -1,4 +1,4 @@
 # fractal
 Unexpected
 
-due to rasterization and mistake
+due to rasterization
